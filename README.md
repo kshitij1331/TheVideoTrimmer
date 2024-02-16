@@ -1,6 +1,6 @@
 ## Python Video Trimmer with MoviePy
 
-This script provides a simple tool to trim video clips using the `MoviePy`` library.
+This script provides a simple tool to trim video clips using the `MoviePy` library.
 
 ### Features:
 
@@ -10,7 +10,7 @@ This script provides a simple tool to trim video clips using the `MoviePy`` libr
 
 ### How to use:
 
-- Install the `MoviePy`` library: `pip install moviepy`
+- Install the `MoviePy` library: `pip install moviepy`
 - Save the script as trim_video.py.
 - Update the video path (video_path), start time (start_time), and end time (end_time) variables in the script with your desired values.
 - Run the script: `python trim_video.py`
